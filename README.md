@@ -65,9 +65,9 @@ Using the SSH protocol, you can connect and authenticate to remote servers and s
 1. A confirmation is displayed, including information about where your files are stored.
 
 
-## Add an SSH key to your GitLab account
+## Add an SSH key to your GitHub account
 
-To use SSH with GitLab, copy your public key to your GitLab account.
+To use SSH with GitHub, copy your public key to your GitHub account.
 
 1. Copy the contents of your public key file. You can do this manually or use a script.
    For example, to copy an ED25519 key to the clipboard:
